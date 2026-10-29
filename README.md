@@ -74,7 +74,7 @@ Contenido, ejemplos y recursos del curso de Introducción a la Programación y C
 
 ## 📧 Contacto
 
-- Email: computacion.cococys@gmail.com
+- Email: software.cococys@gmail.com
 - Organización: [CococysLabs](https://github.com/CococysLabs)
 
 ---
